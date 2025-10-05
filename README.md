@@ -6,7 +6,7 @@ Este análisis de **retención de clientes (Churn)** a través del **Mapa de Cal
 
 El hallazgo central es la existencia de una **fuga masiva de clientes (más del 70%) del Mes 0 al Mes 1**. Esto subraya una falla crítica en la activación post-adquisición. A pesar de esta fuga inicial, los clientes que **sobreviven al Mes 1** demuestran ser un subgrupo de alto valor, manteniendo tasas de retención estables.
 
-[**Resumen Ejecutivo**]()
+[**Resumen Ejecutivo**](https://github.com/Marcoaurelio700/Cohort-Analysis-LTV-Churn-Mitigation/blob/master/Cohort_Analysis_LTV_Churn_Mitigation/deliverables/Estrategias%20de%20Mitigaci%C3%B3n%20de%20Fuga%20(Churn)%20An%C3%A1lisis%20de%20Cohortes%20para%20la%20Maximizaci%C3%B3n%20del%20Lifetime%20Value%20(LTV).pdf)
 
 **Recomendación:** La empresa debe **priorizar la inversión en *onboarding*** (activación inicial) para reducir la caída del primer mes y, simultáneamente, enfocar los **programas de lealtad (CRM)** en el segmento de clientes que ya demostró compromiso para maximizar su LTV.
 
@@ -37,7 +37,7 @@ Se empleó Python (Pandas) para la ingeniería de datos y la creación de la mat
 
 El dashboard fue construido en Power BI para comunicar de forma visual y numérica los hallazgos.
 
-![(**Dashboard:**)]()
+![(**Dashboard:**)](https://github.com/Marcoaurelio700/Cohort-Analysis-LTV-Churn-Mitigation/blob/master/Cohort_Analysis_LTV_Churn_Mitigation/deliverables/Visualizacion_MapaCalor_Retencion_Cohortes.png)
 
 ## Instrucciones de Reproducción
 
